@@ -1,0 +1,7 @@
+.homeBackground {
+  background-image: url(https://user-images.githubusercontent.com/94323045/164817371-1018bc6e-7e3a-4a44-8bb2-39ba1b6cf3a0.jpg);
+  color: red;
+  background-size: cover;
+  background-position: 50%;
+  background-repeat: no-repeat;
+}
