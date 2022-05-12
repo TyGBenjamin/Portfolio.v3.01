@@ -1,6 +1,6 @@
 import React from "react";
 import "./photo.css";
-import Tyler from "../../assets/profile-main.jpg";
+import Tyler from "../../assets/useProfile.jpg";
 
 const Portfolio = () => {
   return (

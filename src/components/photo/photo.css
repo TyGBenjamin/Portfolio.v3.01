@@ -20,14 +20,19 @@
   position: relative;
 }
 
-@media (max-width: 2000px) {
+@media screen and (max-width: 2000px) {
   .photoDiv {
     padding-left: 490px;
   }
 }
 
-@media (max-width: 1800px) {
+@media screen and (max-width: 1800px) {
   .photoDiv {
     padding-left: 530px;
+  }
+}
+@media screen and (max-width: 600px) {
+  .container {
+    width: var(--container-width-sm);
   }
 }
