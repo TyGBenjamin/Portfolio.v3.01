@@ -7,6 +7,7 @@ import Services from "./components/services/Services";
 import Portfolio from "./components/portfolio/Portfolio";
 import Testimony from "./components/testimony/Testimony";
 import Contact from "./components/contact/Contact";
+import Photo from "./components/photo/Photo";
 import Footer from "./components/footer/Footer";
 import "./index.css";
 
@@ -14,6 +15,7 @@ const App = () => {
   return (
     <>
       <Header />
+      <Photo />
       <Nav />
       <About />
       <Experience />

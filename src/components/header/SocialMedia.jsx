@@ -8,6 +8,7 @@ const SocialMedia = () => {
       <a
         href="https://www.linkedin.com/in/tyler-gandy-a90a41225/"
         target="_blank"
+        rel="noreffer"
       >
         <BsLinkedin />
       </a>

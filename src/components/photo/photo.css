@@ -1,0 +1,16 @@
+.photo {
+  background: var(--color-primary);
+  width: 22rem;
+  height: 30rem;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  left: calc(50%-11rem);
+  margin-top: 4rem;
+  border-radius: 12rem 12rem 0 0;
+}
+
+.photoDiv {
+  padding-left: 490px;
+  padding-bottom: 85px;
+}

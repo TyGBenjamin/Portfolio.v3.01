@@ -12,18 +12,48 @@ header {
 
 /* >>>>>>>>>>>>>>>>>>>>>>>>>>>>.CODE <<<<<<<<<<<<<<<<<<<<<<<<<<< */
 
-.code {
+.cta {
   margin-top: 2.5rem;
   display: flex;
   gap: 1rem;
   justify-content: center;
+  padding-bottom: 15px;
 }
 
 .social__media {
   display: flex;
   flex-direction: column;
   align-items: center;
-  gap: 0.8rem;
-  position: absolute;
-  left: 0;
+  gap: 1.5rem;
+  bottom: 0rem;
+  align-content: center;
+}
+.social__media:hover {
+  font-size: x-large;
+  color: black;
+}
+
+.social__media::after {
+  content: "";
+  width: 1px;
+  height: 2rem;
+  background: var(--color-primary);
+}
+
+/* >>>>>>>>>>>>>>>>>>>>>>>>>.. */
+
+.me {
+  background: var(--color-primary);
+  width: 22rem;
+  height: 40rem;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  left: calc(50%-11rem);
+  margin-top: 4rem;
+  border-radius: 12rem 12rem 0 0;
+}
+
+.Tyler {
+  border-radius: 12rem 12rem 0 0;
 }

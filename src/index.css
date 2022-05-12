@@ -92,6 +92,7 @@ a:hover {
   background: var(--color-white);
   color: var(--color-bg);
   border-color: transparent;
+  font-size: larger;
 }
 
 .btn-primary {
