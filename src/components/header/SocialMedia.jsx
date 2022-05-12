@@ -4,7 +4,7 @@ import { FaGithub, FaFacebook } from "react-icons/fa";
 
 const SocialMedia = () => {
   return (
-    <div classNAme="social__media">
+    <div className="social__media">
       <a
         href="https://www.linkedin.com/in/tyler-gandy-a90a41225/"
         target="_blank"
