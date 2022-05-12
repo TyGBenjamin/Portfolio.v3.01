@@ -106,6 +106,53 @@ img {
   object-fit: cover;
 }
 
+.cursorOne {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 1rem;
+  width: 1rem;
+  background: skyblue;
+  pointer-events: none;
+  transform: translate(-50%, -50%);
+  border-radius: 50%;
+  z-index: 10000;
+}
+
+.cursorOne.active {
+  height: 7rem;
+  width: 7rem;
+  opacity: 0.3;
+}
+
+.cursorTwo {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 4rem;
+  width: 4rem;
+  border: 0.1rem solid skyblue;
+  pointer-events: none;
+  transform: translate(-50%, -50%);
+  border-radius: 50%;
+  z-index: 10000;
+  transition: 0.1s linear;
+}
+
+.cursorTwo.active {
+  display: none;
+}
+
+@media screen and (max-width: 1080px) {
+  .container {
+    width: var(--container-width-lg);
+  }
+}
+
+section {
+  margin-top: 8rem;
+}
+
 /* >>>>>>>>>>>>> MEDIA (medium screen) QUERIES <<<<<<<<<<<<<<< */
 
 @media screen and (max-width: 1024px) {

@@ -1,7 +1,7 @@
 import React from "react";
 import "./header.css";
 import Code from "./Code";
-import Tyler from "../../assets/Untitledport.jpg";
+// import Tyler from "../../assets/Untitledport.jpg";
 import SocialMedia from "./SocialMedia";
 
 const Header = () => {

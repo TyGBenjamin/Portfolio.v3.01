@@ -10,10 +10,12 @@ import Contact from "./components/contact/Contact";
 import Photo from "./components/photo/Photo";
 import Footer from "./components/footer/Footer";
 import "./index.css";
+import Cursor from "./components/cursor/Cursor";
 
 const App = () => {
   return (
     <>
+      <Cursor />
       <Header />
       <Photo />
       <Nav />
