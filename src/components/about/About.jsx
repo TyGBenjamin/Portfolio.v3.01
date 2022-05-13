@@ -35,7 +35,10 @@ const About = () => {
               <small> 25+</small>
             </article>
           </div>
-          <p>Hello my name is Tyler B Gandy and I write code.</p>
+          <p>
+            Hello my name is Tyler B Gandy and I write code. The main
+            programming language I use is javascript
+          </p>
           <a href="#contact" className="btn btn-primary">
             Reach Out
           </a>

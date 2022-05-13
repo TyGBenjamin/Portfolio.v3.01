@@ -8,6 +8,7 @@
   box-sizing: border-box;
   list-style: none;
   text-decoration: none;
+  cursor: none;
 }
 
 :root {
@@ -68,6 +69,15 @@ section > h5 {
   color: var(--color-light);
 }
 
+section > h2 {
+  color: var(--color-primary);
+  margin-bottom: 3rem;
+}
+
+.text-light {
+  color: var(--color-light);
+}
+
 a {
   color: var(--color-primary);
   transition: var(--transition);
@@ -75,6 +85,7 @@ a {
 
 a:hover {
   color: var(--color-white);
+  cursor: pointer;
 }
 
 .btn {
@@ -93,6 +104,7 @@ a:hover {
   color: var(--color-bg);
   border-color: transparent;
   font-size: larger;
+  cursor: pointer;
 }
 
 .btn-primary {
@@ -143,7 +155,7 @@ img {
   display: none;
 }
 
-@media screen and (max-width: 1080px) {
+/* @media screen and (max-width: px) {
   .container {
     width: var(--container-width-lg);
   }
@@ -153,6 +165,10 @@ section {
   margin-top: 8rem;
   height: 100vh;
 }
+
+.socialIcon:hover {
+  cursor: pointer;
+} */
 
 /* >>>>>>>>>>>>> MEDIA (medium screen) QUERIES <<<<<<<<<<<<<<< */
 

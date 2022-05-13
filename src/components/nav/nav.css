@@ -3,6 +3,7 @@
   color: pink;
   background: rgba(0, 0, 0, 0.4);
   border-radius: 30%;
+  cursor: pointer;
 }
 
 nav {

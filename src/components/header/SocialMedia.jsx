@@ -9,13 +9,22 @@ const SocialMedia = () => {
         href="https://www.linkedin.com/in/tyler-gandy-a90a41225/"
         target="_blank"
         rel="noreffer"
+        className="socialIcon"
       >
         <BsLinkedin />
       </a>
-      <a href="https://github.com/TyGBenjamin" target="_blank">
+      <a
+        href="https://github.com/TyGBenjamin"
+        target="_blank"
+        className="socialIcon"
+      >
         <FaGithub />
       </a>
-      <a href="https://www.facebook.com/" target="_blank">
+      <a
+        href="https://www.facebook.com/"
+        target="_blank"
+        className="socialIcon"
+      >
         <FaFacebook />
       </a>
     </div>
