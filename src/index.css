@@ -155,21 +155,6 @@ img {
   display: none;
 }
 
-/* @media screen and (max-width: px) {
-  .container {
-    width: var(--container-width-lg);
-  }
-}
-
-section {
-  margin-top: 8rem;
-  height: 100vh;
-}
-
-.socialIcon:hover {
-  cursor: pointer;
-} */
-
 /* >>>>>>>>>>>>> MEDIA (medium screen) QUERIES <<<<<<<<<<<<<<< */
 
 @media screen and (max-width: 1024px) {
