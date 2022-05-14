@@ -11,10 +11,8 @@
 }
 
 .photoDiv {
-  /* padding-top: -50px; */
   display: flex;
   flex-direction: column;
-  justify-items: center;
   text-align: center;
   align-items: center;
   min-height: 100vh;
