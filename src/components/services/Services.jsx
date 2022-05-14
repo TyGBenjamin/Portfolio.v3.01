@@ -16,27 +16,15 @@ const Services = () => {
           <ul className="service__list">
             <li>
               <BiCheckboxSquare className="service__lict-icon" />
-              <p>
-                {" "}
-                Hello I will fill in this apce after completing the layout of my
-                portfolio
-              </p>
+              <p> BootStrap</p>
             </li>
             <li>
               <BiCheckboxSquare className="service__lict-icon" />
-              <p>
-                {" "}
-                Hello I will fill in this apce after completing the layout of my
-                portfolio
-              </p>
+              <p> WebPack and other node modules</p>
             </li>
             <li>
               <BiCheckboxSquare className="service__lict-icon" />
-              <p>
-                {" "}
-                Hello I will fill in this apce after completing the layout of my
-                portfolio
-              </p>
+              <p> CSS and JSX effects and design</p>
             </li>
             <li>
               <BiCheckboxSquare className="service__lict-icon" />
@@ -72,8 +60,9 @@ const Services = () => {
               <BiCheckboxSquare className="service__lict-icon" />
               <p>
                 {" "}
-                Hello I will fill in this apce after completing the layout of my
-                portfolio
+                Ability to assist with creating front-end and/or back-end
+                applications to assist with data entry and updating data
+                respectively.
               </p>
             </li>
             <li>

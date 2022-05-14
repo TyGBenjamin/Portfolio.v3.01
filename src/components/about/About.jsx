@@ -37,7 +37,12 @@ const About = () => {
           </div>
           <p>
             Hello my name is Tyler B Gandy and I write code. The main
-            programming language I use is javascript
+            programming language I use is javascript. I have spent a moderate
+            amount of developing and writing code for both front and back-end
+            sides of applications. In addition, the use of different ypes of
+            databases and the this.props and cons to each respective database is
+            something I effectively implented throughout my studies and early
+            career thus far.
           </p>
           <a href="#contact" className="btn btn-primary">
             Reach Out
