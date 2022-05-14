@@ -30,7 +30,7 @@ Being a web developer means being part of a community. This will be used to not 
 A video for previewing the usage of this application can be found in the following link
 [Click Here for Video Walkthrough](https://www.youtube.com/watch?v=b-jCn1LVuuA)
 
-The Live Demo can be viewed here [LIVE DEMO]()
+The Live Demo can be viewed here [LIVE DEMO](https://tygbenjamin.github.io/Portfolio.v3.01/)
 
 ![Screenshot of Application](https://user-images.githubusercontent.com/94323045/168403524-98329676-9a2e-4072-84a1-2731badecb53.jpg)
 
