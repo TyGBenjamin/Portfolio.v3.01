@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/Portfolio.v3.01/static/css/main.5f84b1b4.css",
+    "main.js": "/Portfolio.v3.01/static/js/main.f036f1cd.js",
+    "static/js/787.3af818d5.chunk.js": "/Portfolio.v3.01/static/js/787.3af818d5.chunk.js",
+    "static/media/cover.pdf": "/Portfolio.v3.01/static/media/cover.1676dcdc83730930d888.pdf",
+    "static/media/projectThreeOne.jpg": "/Portfolio.v3.01/static/media/projectThreeOne.d8c417227d395ffb1e2f.jpg",
+    "static/media/useProfile.jpg": "/Portfolio.v3.01/static/media/useProfile.c385100c1e0d1ef31744.jpg",
+    "static/media/twoTime.jpg": "/Portfolio.v3.01/static/media/twoTime.036c7e46a63dfc3e180a.jpg",
+    "static/media/2.png": "/Portfolio.v3.01/static/media/2.ea3a75ac1d7b0e2630dd.png",
+    "static/media/6.png": "/Portfolio.v3.01/static/media/6.e5a2feb807c60e200ebd.png",
+    "static/media/4.png": "/Portfolio.v3.01/static/media/4.5583f365be54c1bb16ac.png",
+    "static/media/BlueSky1.jpg": "/Portfolio.v3.01/static/media/BlueSky1.7f11d07ebed300905f36.jpg",
+    "static/media/jateTextEdit.jpg": "/Portfolio.v3.01/static/media/jateTextEdit.5bba98d9f931df4413a5.jpg",
+    "index.html": "/Portfolio.v3.01/index.html",
+    "main.5f84b1b4.css.map": "/Portfolio.v3.01/static/css/main.5f84b1b4.css.map",
+    "main.f036f1cd.js.map": "/Portfolio.v3.01/static/js/main.f036f1cd.js.map",
+    "787.3af818d5.chunk.js.map": "/Portfolio.v3.01/static/js/787.3af818d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f84b1b4.css",
+    "static/js/main.f036f1cd.js"
+  ]
+}
