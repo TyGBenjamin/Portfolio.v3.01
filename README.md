@@ -28,15 +28,15 @@ Being a web developer means being part of a community. This will be used to not 
 ## Preview
 
 A video for previewing the usage of this application can be found in the following link
-[Click Here for Video Walkthrough]()
+[Click Here for Video Walkthrough](https://www.youtube.com/watch?v=b-jCn1LVuuA)
 
 The Live Demo can be viewed here [LIVE DEMO]()
 
-![Screenshot of Application]()
+![Screenshot of Application](https://user-images.githubusercontent.com/94323045/168403524-98329676-9a2e-4072-84a1-2731badecb53.jpg)
 
-![Screenshot of Application]()
+![Screenshot of Application](https://user-images.githubusercontent.com/94323045/168403553-2a8e89c1-f477-4027-b44d-537541fc3eb6.jpg))
 
-![Screenshot of Application]()
+![Mobile Phone Responsive Design](https://user-images.githubusercontent.com/94323045/168403569-dd420cfc-0f9a-422e-9a46-aeea1bd69d01.jpg)
 
 ## User Story
 
