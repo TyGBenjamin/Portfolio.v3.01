@@ -1,8 +1,9 @@
 import React from "react";
 import "./header.css";
 import Code from "./Code";
-// import Tyler from "../../assets/Untitledport.jpg";
+import Tyler from "../../assets/useProfile.jpg";
 import SocialMedia from "./SocialMedia";
+import Photo from "../photo/Photo";
 
 const Header = () => {
   return (
@@ -10,7 +11,7 @@ const Header = () => {
       <div className="container header__container">
         <h5>Hey There, my name is</h5>
         <h1>Tyler B. Gandy</h1>
-        <h5 className="text-light">I am a Fullstck Javascript Developer</h5>
+        <h5>and I write code</h5>
         <Code />
         <SocialMedia />
         {/* <div className="me">
