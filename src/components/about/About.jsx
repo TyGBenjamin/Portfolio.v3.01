@@ -38,11 +38,13 @@ const About = () => {
           <p>
             Hello my name is Tyler B Gandy and I write code. The main
             programming language I use is javascript. I have spent a moderate
-            amount of developing and writing code for both front and back-end
-            sides of applications. In addition, the use of different ypes of
-            databases and the this.props and cons to each respective database is
-            something I effectively implented throughout my studies and early
-            career thus far.
+            amount of time developing and writing code for both front and
+            back-end sides of applications. In addition, I have become
+            accustomed to the use of different types of databases and the the
+            pros and cons that each has to offer, respticevly. Despite being at
+            such an early point in my journy, I feel I have been able to
+            effectively implement good coding practices into my skillset and
+            look forward to building and learning more as time goes.
           </p>
           <a href="#contact" className="btn btn-primary">
             Reach Out

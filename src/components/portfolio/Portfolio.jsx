@@ -4,7 +4,7 @@ import Blue from "../../assets/BlueSky1.jpg";
 import ProjectT from "../../assets/projectThreeOne.jpg";
 import Jate from "../../assets/jateTextEdit.jpg";
 
-const data = [
+const project = [
   {
     id: 1,
     image: Blue,
@@ -34,7 +34,7 @@ const Portfolio = () => {
       <h5> Recent Projects and Repositories</h5>
       <h2>Portfolio</h2>
       <div className="container portfolio__container">
-        {data.map(({ id, image, title, github, beta }) => {
+        {project.map(({ id, image, title, github, beta }) => {
           return (
             <article key={id} className="portfolio__item">
               <div className="portfolio__item-image">
