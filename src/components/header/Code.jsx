@@ -1,10 +1,14 @@
 import React from "react";
-import CV from "../../assets/cover.pdf";
+// import CV from "../../assets/tyGandyResume.pdf";
 
 const Code = () => {
   return (
     <div className="cta">
-      <a href={CV} downlaod className="btn">
+      <a
+        href="https://drive.google.com/file/d/108OTIFrDySX4xNlofqv4Vhp_gi9AsuBv/view?usp=sharing"
+        downlaod
+        className="btn"
+      >
         Download CV
       </a>
       <a href="#contact" className="btn btn-primary">
