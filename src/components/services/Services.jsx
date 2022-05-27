@@ -16,7 +16,7 @@ const Services = () => {
           <ul className="service__list">
             <li>
               <BiCheckboxSquare className="service__lict-icon" />
-              <p> BootStrap</p>
+              <p> BootStrap </p>
             </li>
             <li>
               <BiCheckboxSquare className="service__lict-icon" />
@@ -28,25 +28,11 @@ const Services = () => {
             </li>
             <li>
               <BiCheckboxSquare className="service__lict-icon" />
-              <p>
-                Hello I will fill in this apce after completing the layout of my
-                portfolio
-              </p>
+              <p>Website Design and Management</p>
             </li>
             <li>
               <BiCheckboxSquare className="service__lict-icon" />
-              <p>
-                Hello I will fill in this apce after completing the layout of my
-                portfolio
-              </p>
-            </li>
-            <li>
-              <BiCheckboxSquare className="service__lict-icon" />
-              <p>
-                {" "}
-                Hello I will fill in this apce after completing the layout of my
-                portfolio
-              </p>
+              <p>React</p>
             </li>
           </ul>
         </article>
@@ -67,41 +53,19 @@ const Services = () => {
             </li>
             <li>
               <BiCheckboxSquare className="service__lict-icon" />
-              <p>
-                {" "}
-                Hello I will fill in this apce after completing the layout of my
-                portfolio
-              </p>
+              <p> SQL Database management</p>
             </li>
             <li>
               <BiCheckboxSquare className="service__lict-icon" />
-              <p>
-                {" "}
-                Hello I will fill in this apce after completing the layout of my
-                portfolio
-              </p>
+              <p>Express Routes for sending and receicing data</p>
             </li>
             <li>
               <BiCheckboxSquare className="service__lict-icon" />
-              <p>
-                Hello I will fill in this apce after completing the layout of my
-                portfolio
-              </p>
+              <p>Integrating and implementation of API applications</p>
             </li>
             <li>
               <BiCheckboxSquare className="service__lict-icon" />
-              <p>
-                Hello I will fill in this apce after completing the layout of my
-                portfolio
-              </p>
-            </li>
-            <li>
-              <BiCheckboxSquare className="service__lict-icon" />
-              <p>
-                {" "}
-                Hello I will fill in this apce after completing the layout of my
-                portfolio
-              </p>
+              <p>Use of encryption to protect sensitive information</p>
             </li>
           </ul>
         </article>
@@ -113,49 +77,18 @@ const Services = () => {
           <ul className="service__list">
             <li>
               <BiCheckboxSquare className="service__lict-icon" />
-              <p>
-                {" "}
-                Hello I will fill in this apce after completing the layout of my
-                portfolio
-              </p>
+              <p> Use of animation desing to create 2-D video game</p>
             </li>
             <li>
               <BiCheckboxSquare className="service__lict-icon" />
               <p>
-                {" "}
-                Hello I will fill in this apce after completing the layout of my
-                portfolio
+                User-friendly and interactive interfaces which allow for more
+                user engagement
               </p>
             </li>
             <li>
               <BiCheckboxSquare className="service__lict-icon" />
-              <p>
-                {" "}
-                Hello I will fill in this apce after completing the layout of my
-                portfolio
-              </p>
-            </li>
-            <li>
-              <BiCheckboxSquare className="service__lict-icon" />
-              <p>
-                Hello I will fill in this apce after completing the layout of my
-                portfolio
-              </p>
-            </li>
-            <li>
-              <BiCheckboxSquare className="service__lict-icon" />
-              <p>
-                Hello I will fill in this apce after completing the layout of my
-                portfolio
-              </p>
-            </li>
-            <li>
-              <BiCheckboxSquare className="service__lict-icon" />
-              <p>
-                {" "}
-                Hello I will fill in this apce after completing the layout of my
-                portfolio
-              </p>
+              <p> I will add to this space as my knowledge enhances</p>
             </li>
           </ul>
         </article>
