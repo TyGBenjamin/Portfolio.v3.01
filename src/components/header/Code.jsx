@@ -8,6 +8,7 @@ const Code = () => {
         href="https://drive.google.com/file/d/108OTIFrDySX4xNlofqv4Vhp_gi9AsuBv/view?usp=sharing"
         downlaod
         className="btn"
+        target="blank"
       >
         Download CV
       </a>
