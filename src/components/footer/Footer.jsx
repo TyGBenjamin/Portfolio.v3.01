@@ -46,9 +46,7 @@ const Footer = () => {
         </a>
       </div>
       <div className="footer__copyright">
-        <small>
-          &copy; Tyler B. Gandy. All rights reserved 2022 &reserved;{" "}
-        </small>
+        <small>&copy; Tyler B. Gandy. All rights reserved 2022</small>
       </div>
     </footer>
   );
