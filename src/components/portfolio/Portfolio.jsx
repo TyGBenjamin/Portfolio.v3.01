@@ -17,7 +17,7 @@ const project = [
     image: ProjectT,
     title: " Sports Betting App",
     github: "https://github.com/TyGBenjamin/Chartreuse_Gamblers",
-    beta: "https://chartreuse-gamblers-app.herokuapp.com/",
+    beta: "https://tygbenjamin.github.io/Chartreuse_Gamblers/",
   },
   {
     id: 3,
