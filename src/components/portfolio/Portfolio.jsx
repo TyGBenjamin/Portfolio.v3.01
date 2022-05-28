@@ -1,7 +1,7 @@
 import React from "react";
 import "./portfolio.css";
 import Blue from "../../assets/BlueSky1.jpg";
-import ProjectT from "../../assets/projectThreeOne.jpg";
+import ProjectT from "../../assets/loginPic.jpg";
 import Jate from "../../assets/jateTextEdit.jpg";
 
 const project = [

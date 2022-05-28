@@ -86,10 +86,10 @@ const Services = () => {
                 user engagement
               </p>
             </li>
-            <li>
+            {/* <li>
               <BiCheckboxSquare className="service__lict-icon" />
               <p> I will add to this space as my knowledge enhances</p>
-            </li>
+            </li> */}
           </ul>
         </article>
         {/* END OF CC  */}
