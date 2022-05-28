@@ -2,9 +2,9 @@ import React from "react";
 import "./photo.css";
 import Tyler from "../../assets/useProfile.jpg";
 
-const Portfolio = () => {
+const Photo = () => {
   return (
-    <div className="container photoDiv">
+    <div className="photoDiv">
       <div className="photo">
         <img className="Tyler" src={Tyler} alt="Tyler B. Gandy"></img>
       </div>
@@ -12,4 +12,4 @@ const Portfolio = () => {
   );
 };
 
-export default Portfolio;
+export default Photo;
